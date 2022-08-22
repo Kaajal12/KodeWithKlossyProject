@@ -1,5 +1,6 @@
 # KodeWithKlossyProject
 Kode with Klossy Final Project (Mobile App Development - 2022)
+
 Pawsibilities, an app designed to help educate pet owners on their pet's daily nutrition, hopes to make a positive change on a cat's or dog's lifestyle. 
 
 According to the data entered by the user, an exact measurement (given in cups) of dry food is recommended per serving. Our product serves as a purpose to 
