@@ -10,4 +10,4 @@ Additionally, on the fun facts page users can generate a random fun fact each ti
 My team and I designed our app by including a launch screen, a scroll view, an image viewer to allow the user to select a photo from their gallery, 
 multiple pages that are connected with segues, and a segmented control. Our multiple pages includes a Create Pet Profile, About Us, and Fun Facts.
 
-Furthermore, our minimum viable product mobile application was created in XCode using Swift.
+Furthermore, our minimum viable product mobile application was created in Xcode using Swift in 3 days.
